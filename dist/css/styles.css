@@ -89,118 +89,6 @@ a, a:visited, a:active, a:hover {
   max-width: 69.3125rem;
 }
 
-.padding-a {
-  padding: 1.5rem;
-}
-
-.padding-t {
-  padding-top: 1.5rem;
-}
-
-.padding-r {
-  padding-right: 1.5rem;
-}
-
-.padding-b {
-  padding-bottom: 1.5rem;
-}
-
-.padding-l {
-  padding-left: 1.5rem;
-}
-
-.padding-x {
-  padding-right: 1.5rem;
-  padding-left: 1.5rem;
-}
-
-.padding-y {
-  padding-top: 1.5rem;
-  padding-bottom: 1.5rem;
-}
-
-.padding-t-3 {
-  padding-top: 3rem;
-}
-
-.padding-r-3 {
-  padding-right: 3rem;
-}
-
-.padding-b-3 {
-  padding-bottom: 3rem;
-}
-
-.padding-l-3 {
-  padding-left: 3rem;
-}
-
-.padding-x-3 {
-  padding-right: 1.5rem;
-  padding-left: 1.5rem;
-}
-
-.padding-y-3 {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
-}
-
-.margin-a {
-  margin: 1.5rem;
-}
-
-.margin-t {
-  margin-top: 1.5rem;
-}
-
-.margin-r {
-  margin-right: 1.5rem;
-}
-
-.margin-b {
-  margin-bottom: 1.5rem;
-}
-
-.margin-l {
-  margin-left: 1.5rem;
-}
-
-.margin-x {
-  margin-right: 1.5rem;
-  margin-left: 1.5rem;
-}
-
-.margin-y {
-  margin-top: 1.5rem;
-  margin-bottom: 1.5rem;
-}
-
-.margin-t-3 {
-  margin-top: 3rem;
-}
-
-.margin-r-3 {
-  margin-right: 3rem;
-}
-
-.margin-b-3 {
-  margin-bottom: 3rem;
-}
-
-.margin-l-3 {
-  margin-left: 3rem;
-}
-
-.margin-x-3 {
-  margin-right: 3rem;
-  margin-left: 3rem;
-}
-
-.margin-y-3 {
-  margin-top: 3rem;
-  margin-bottom: 3rem;
-}
-
 h2, h3, p {
   margin: 0;
 }
@@ -213,18 +101,6 @@ h2, h3, p {
 
 .attribution a {
   color: #7541c8;
-}
-
-@media (max-width: 39.9375em) {
-  .hide-for-mobile {
-    display: none !important;
-  }
-}
-
-@media (min-width: 64em) {
-  .hide-for-desktop {
-    display: none !important;
-  }
 }
 
 .cards__list {
